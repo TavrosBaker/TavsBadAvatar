@@ -1,4 +1,6 @@
 # Welcome to Tav's ABadAvatar V1.3
+# DOWNLOAD V1 WITH THIS LINK:
+https://mega.nz/file/1BsxlKxT#Z8slE4UAur7UtY8aD9RJZKrnTLJ6aNm1ROIBlvv4wHg
 
 Welcome to my custom version of **ABadAvatar V1.3!**
 
